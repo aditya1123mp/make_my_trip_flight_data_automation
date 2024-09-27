@@ -6,12 +6,12 @@
    <elementGuidId>52f248db-9c3d-4e92-8c50-d50dc40087cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@data-cy=&quot;oneWayTrip&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

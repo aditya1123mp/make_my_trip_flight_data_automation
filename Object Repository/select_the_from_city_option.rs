@@ -6,12 +6,12 @@
    <elementGuidId>252cb29a-73b3-42d7-b2ad-e7efae823092</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id=&quot;react-autowhatever-1-section-0-item-0&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

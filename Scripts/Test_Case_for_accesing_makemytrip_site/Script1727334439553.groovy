@@ -40,3 +40,7 @@ WebUI.navigateToUrl('https://www.makemytrip.com')
 // Additional test steps
 
 //WebUI.closeBrowser()
+
+//project make my trip flight data automation
+//By ADITYA_AGARWAL
+//project
