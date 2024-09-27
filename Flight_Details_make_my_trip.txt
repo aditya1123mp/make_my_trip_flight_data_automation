@@ -1,0 +1,7720 @@
+Date: 27/09/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 8,103
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 8,245
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:10
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Air India Express
+Flight ID: I5 1301
+Price: ₹ 8,275
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 8,540
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 8,985
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 8,985
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 9,569
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 9,573
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 9,904
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 10,683
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 10,683
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 11,476
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 11,655
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 11,655
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 13,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 27/09/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 13,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:20
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 591
+Price: ₹ 3,551
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:50
+Arrival Time: 23:35
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India Express
+Flight ID: I5 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:10
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,542
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:30
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1343
+Price: ₹ 4,677
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 08:05
+Arrival Time: 09:55
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 4,833
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 01:45
+Arrival Time: 03:35
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 4,973
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 5,039
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 5,039
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Vistara
+Flight ID: UK 845
+Price: ₹ 5,067
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 06:00
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 5,171
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 5,402
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 5,402
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 5,402
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 5,802
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 5,873
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 6,387
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 7,410
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 8,332
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 8,332
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 9,006
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 9,006
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 6326
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 28/09/2024
+Flight Name: Air India
+Flight ID: AI 6322
+Price: ₹ 15,635
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 06:00
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 01:45
+Arrival Time: 03:35
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1343
+Price: ₹ 3,457
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 08:05
+Arrival Time: 09:55
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 845
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 06:00
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India Express
+Flight ID: I5 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 3,702
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1786
+Price: ₹ 3,753
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 17:45
+Arrival Time: 19:35
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,017
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,017
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:30
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:10
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 5,067
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 5,907
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 6,655
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 7,410
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 7,410
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:20
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 7,754
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 7,892
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 29/09/2024
+Flight Name: Air India
+Flight ID: AI 6326
+Price: ₹ 8,332
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 01:45
+Arrival Time: 03:35
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1786
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 17:45
+Arrival Time: 19:25
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:30
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 13:40
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:10
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:20
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 3,597
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 845
+Price: ₹ 3,912
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 06:00
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,017
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,869
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,869
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 6,843
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 7,548
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 7,754
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Air India
+Flight ID: AI 6332
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 30/09/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 11,196
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1838
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 01:10
+Arrival Time: 03:00
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 591
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 5,873
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 01/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,127
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,743
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 5,171
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1728
+Price: ₹ 5,185
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 08:45
+Arrival Time: 10:40
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 02/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 03/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 7,658
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,753
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 5,058
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 6,984
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 6,984
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 04/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 7,410
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 591
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 4,016
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,973
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 05/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 4,223
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 4,618
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 5,163
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 6326
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 6332
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 6,780
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 6,843
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 6,951
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 6,984
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 7,473
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 7,998
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 06/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 8,245
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 13:40
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,526
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 4,350
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 4,427
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,638
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 5,039
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 07/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,127
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1838
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 01:10
+Arrival Time: 03:00
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 591
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,851
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,918
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 4,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 08/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,753
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,838
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 4,350
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 5,039
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 09/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1728
+Price: ₹ 6,059
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 08:45
+Arrival Time: 10:40
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,918
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 4,350
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 10/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,457
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 3,588
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,805
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 3,897
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 4,001
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 4,427
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 4,581
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,743
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 4,950
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 11/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,401
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 591
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,918
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1886
+Price: ₹ 4,001
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 07:10
+Arrival Time: 09:05
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 4,001
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 4,163
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,638
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 4,647
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 5,442
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 6326
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 6332
+Price: ₹ 6,310
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 6,780
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 6,905
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 7,368
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 7,754
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 7,998
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 8,332
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 9,006
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 9,019
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 9,573
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 12/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 4,833
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 5,497
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 5,520
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 5,520
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 5,620
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 5,819
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 7,410
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 8,149
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 8,747
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 6326
+Price: ₹ 9,006
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 9,468
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 9,573
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 9,573
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 10,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 11,476
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 11,568
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 12,329
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 6332
+Price: ₹ 12,458
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 12,825
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 13,406
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 13,406
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 13,406
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 13,406
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 14,298
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 14,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 14,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 14,579
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 15,635
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 13/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 15,860
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 585
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 21:10
+Arrival Time: 23:00
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,457
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,805
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 4,350
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 4,647
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 5,028
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 5,442
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 5,442
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 5,620
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 5,894
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 6,150
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 6,213
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 6,262
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 6,313
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 6,386
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 13:40
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 6,924
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 7,093
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 7,368
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 14/10/2024
+Flight Name: Air India
+Flight ID: AI 6332
+Price: ₹ 8,332
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,189
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,189
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1838
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 01:10
+Arrival Time: 03:00
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,253
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1886
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 07:10
+Arrival Time: 09:05
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 591
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,851
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,918
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 15/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 5,442
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1738
+Price: ₹ 3,127
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 23:50
+Arrival Time: 01:45
++ 1 DAY
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1367
+Price: ₹ 3,189
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:40
+Arrival Time: 00:30
++ 1 DAY
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1439
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 03:10
+Arrival Time: 05:00
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1886
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 07:10
+Arrival Time: 09:05
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Akasa Air
+Flight ID: QP 1728
+Price: ₹ 3,315
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 08:45
+Arrival Time: 10:40
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 6284
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 02:30
+Arrival Time: 04:10
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5352
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 06:05
+Arrival Time: 07:45
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5217
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 11:20
+Arrival Time: 13:15
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5212
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 12:45
+Arrival Time: 14:25
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5382
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 13:45
+Arrival Time: 15:30
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5071
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 15:15
+Arrival Time: 17:00
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5388
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 21:45
+Arrival Time: 23:30
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5322
+Price: ₹ 3,399
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 23:55
+Arrival Time: 01:40
++ 1 DAY
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 621
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 04:00
+Arrival Time: 05:45
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 641
+Price: ₹ 3,450
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:40
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 603
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 06:40
+Arrival Time: 08:35
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 607
+Price: ₹ 3,509
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 16:40
+Arrival Time: 18:30
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 639
+Price: ₹ 3,596
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 09:25
+Arrival Time: 11:15
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India Express
+Flight ID: IX 1301
+Price: ₹ 3,619
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 22:35
+Arrival Time: 00:25
++ 1 DAY
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5296
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 07:30
+Arrival Time: 09:15
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5193
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 40 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:45
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5092
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 10:15
+Arrival Time: 12:00
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5221
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:30
+Arrival Time: 18:15
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5032
+Price: ₹ 4,299
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 19:15
+Arrival Time: 21:05
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Vistara
+Flight ID: UK 849
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Vistara
+Flight ID: UK 865
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Vistara
+Flight ID: UK 857
+Price: ₹ 4,323
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Vistara
+Flight ID: UK 863
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 09:05
+Arrival Time: 10:50
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Vistara
+Flight ID: UK 853
+Price: ₹ 4,428
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Vistara
+Flight ID: UK 851
+Price: ₹ 4,638
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 50 m
+Non stop
+Departure Time: 07:00
+Arrival Time: 08:50
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 6328
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 16:00
+Arrival Time: 17:45
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 6324
+Price: ₹ 5,074
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h
+Non stop
+Departure Time: 17:15
+Arrival Time: 19:15
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 6334
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 02 h 05 m
+Non stop
+Departure Time: 18:50
+Arrival Time: 20:55
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: Air India
+Flight ID: AI 6330
+Price: ₹ 5,411
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 55 m
+Non stop
+Departure Time: 21:30
+Arrival Time: 23:25
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5047
+Price: ₹ 5,442
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 45 m
+Non stop
+Departure Time: 18:00
+Arrival Time: 19:45
+--------------------------------------------------------
+Date: 16/10/2024
+Flight Name: IndiGo
+Flight ID: 6E 5252
+Price: ₹ 5,442
+Departure Airport: Mumbai
+Arrival Airport: Bengaluru
+Total Time: 01 h 35 m
+Non stop
+Departure Time: 20:30
+Arrival Time: 22:05
+--------------------------------------------------------
