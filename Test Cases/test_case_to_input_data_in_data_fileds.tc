@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_input_data_in_data_fileds</description>
+   <name>test_case_to_input_data_in_data_fileds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>246e48d1-eab4-4268-a925-b87044526127</testCaseGuid>
+</TestCaseEntity>

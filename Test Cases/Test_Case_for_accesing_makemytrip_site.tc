@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test_Case_for_accesing_makemytrip_site</description>
+   <name>Test_Case_for_accesing_makemytrip_site</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19c46dba-9c7d-447b-bcd8-4b1b040103ac</testCaseGuid>
+</TestCaseEntity>

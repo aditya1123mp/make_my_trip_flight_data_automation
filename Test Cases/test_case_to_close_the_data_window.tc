@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_close_the_data_window</description>
+   <name>test_case_to_close_the_data_window</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>294310d6-d752-4c38-bb1b-bf8b513d0c7f</testCaseGuid>
+</TestCaseEntity>

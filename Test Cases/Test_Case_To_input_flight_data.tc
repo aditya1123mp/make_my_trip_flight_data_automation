@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test_Case_To_input_flight_data</description>
+   <name>Test_Case_To_input_flight_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34f33862-f4f9-4b88-8a44-a9054d685655</testCaseGuid>
+</TestCaseEntity>

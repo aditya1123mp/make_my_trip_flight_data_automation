@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_get_data_for_present_and_next_20_days</description>
+   <name>test_case_to_get_data_for_present_and_next_20_days</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>275a340e-3e6a-4a97-b194-a603bb61c4c8</testCaseGuid>
+</TestCaseEntity>

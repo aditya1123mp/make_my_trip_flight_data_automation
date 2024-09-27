@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test _Case_to_save_data_in_excel_file</description>
+   <name>Test _Case_to_save_data_in_excel_file</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22d030f9-d1c6-45e7-80e5-51ef607c667d</testCaseGuid>
+</TestCaseEntity>
